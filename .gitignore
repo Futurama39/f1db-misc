@@ -1,2 +1,10 @@
+#vscode things
 .vscode
 *.code-workspace
+#random data and testing
+*.csv
+*.json
+test.py
+#pytest
+.pytest_cache
+__pycache__
